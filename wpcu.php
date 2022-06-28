@@ -2,7 +2,7 @@
 /*
 Plugin Name:  WP Cleanup
 Plugin URI:	  https://mynameisgregg.com/
-Description:  Remove the unneccessary bloat WordPress adds. Use with caution, this is very specific to installations by Gregg Hogan
+Description:  Remove the unneccessary bloat WordPress adds. Use with caution, this is very specific to installations by Gregg Hogan. This is NOT the same plugin as WP Cleanup in the WP Repo.
 Version:	  1.0.0
 Author:		  Gregg Hogan
 Author URI:   https://mynameisgregg.com
